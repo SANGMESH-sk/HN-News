@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Website Link
 
-Open [https://beautiful-beignet-0eab4b.netlify.app/](Click here to view the live website)
+[https://beautiful-beignet-0eab4b.netlify.app/](Click here to view the live website)
+
 ### `npm start`
 
 Runs the app in the development mode.\
